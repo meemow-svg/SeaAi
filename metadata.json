@@ -1,0 +1,7 @@
+{
+  "name": "ASEAN Culture Guide AI",
+  "description": "An AI-powered travel guide to educate travelers on ASEAN cultures, traditions, and etiquette to ensure respectful travel.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
